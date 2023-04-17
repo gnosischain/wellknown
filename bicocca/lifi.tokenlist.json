@@ -1,0 +1,60 @@
+{
+    "name": "Bicocca Token List",
+    "logoURI": "https://raw.githubusercontent.com/gnosischain/wellknown/main/tokens/gnosischain.webp",
+    "keywords": [],
+    "timestamp": "2023-04-17T09:30:21.999Z",
+    "tokens": [
+      {
+        "chainId": 100,
+        "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
+        "name": "Monerium EUR emoney",
+        "symbol": "EURe",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/gnosischain/wellknown/main/tokens/eure.webp",
+        "extensions": {
+          "optimismBridgeAddress": "0x0f5a27Feb55beC9ea82C285C1B48A4a9A4e91E29"
+        }
+      },
+      {
+        "chainId": 29313331,
+        "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+        "name": "Monerium EUR emoney",
+        "symbol": "EURe",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/gnosischain/wellknown/main/tokens/eure.webp",
+        "extensions": {
+          "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+      },
+      {
+        "chainId": 100,
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+        "name": "Wrapped XDAI",
+        "symbol": "WXDAI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/gnosischain/wellknown/main/tokens/wxdai.webp",
+        "extensions": {
+          "optimismBridgeAddress": "0x0f5a27Feb55beC9ea82C285C1B48A4a9A4e91E29"
+        }
+      },
+      {
+        "chainId": 29313331,
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "name": "Wrapped XDAI",
+        "symbol": "WXDAI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/gnosischain/wellknown/main/tokens/wxdai.webp",
+        "extensions": {
+          "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "patch": 0
+    }
+  }
+
+
+  
